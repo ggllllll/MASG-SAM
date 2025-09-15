@@ -1,6 +1,6 @@
 # :page_facing_up: MASG-SAM: Enhancing Few-Shot Medical Image Segmentation with Multi-Scale Attention and Semantic Guidance
 
-<p align="center"><img src="figures/1.png" width="100%"></p>
+<p align="center"><img src="figures/1.png" width="90%"></p>
 
 ### Dependency Preparation
 
