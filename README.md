@@ -25,11 +25,11 @@ python Train.py
 If you find this repo useful for your research, please consider citing the paper as follows:
 
 ```
-@article{zhou2024biasam,
-  title={Biasam: Bidirectional-attention guided segment anything model for very few-shot medical image segmentation},
-  author={Zhou, Wei and Guan, Guilin and Cui, Wei and Yi, Yugen},
-  journal={IEEE Signal Processing Letters},
-  year={2024},
+@article{zhou2025masg,
+  title={MASG-SAM: Enhancing Few-Shot Medical Image Segmentation with Multi-Scale Attention and Semantic Guidance},
+  author={Zhou, Wei and Guan, Guilin and Gao, Yuan and Si, Pengju and Xu, Mengjia and Yan, Qifeng},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2025},
   publisher={IEEE}
 }
 ```
